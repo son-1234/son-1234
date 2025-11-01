@@ -7,5 +7,13 @@
     <img src="https://img.shields.io/badge/battledotnet-4381C3?style=flat-square&logo=battledotnet&logoColor=white"/>
     <img src="https://img.shields.io/badge/steam-000000?style=flat-square&logo=steam&logoColor=white"/>
   </p>
+<h3>보유 주식</h3>
+    <p>
+      <img src="https://img.shields.io/badge/tesla-CC0000?style=flat-square&logo=tesla&logoColor=white"/>
+      <img src="https://img.shields.io/badge/samsung-1428A0?style=flat-square&logo=samsung&logoColor=white"/>
+      <img src="https://img.shields.io/badge/nvidia-00B6F0?style=flat-square&logo=nvidia&logoColor=white"/>
+      <img src="https://img.shields.io/badge/amd-ED1C24?style=flat-square&logo=amd&logoColor=white"/>
+      <img src="https://img.shields.io/badge/bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
+    </p>
 
-  

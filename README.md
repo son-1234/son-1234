@@ -1,5 +1,8 @@
 <h1>손성현 게임즈 사장  </h1>
-  <p>@Moderator11 <--직원</p>
+  <p>
+    @Moderator11 <--직원</br>전번:010-9724-6775</br>이메일: thstjdgus0813@gmail.com
+  </p>
+  
 <h2>게임 스택</h2>
   <p>
     <img src="https://img.shields.io/badge/PUBG-F4B942?style=flat-square&logo=PUBG&logoColor=white"/>

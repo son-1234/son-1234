@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/battledotnet-4381C3?style=flat-square&logo=battledotnet&logoColor=white"/>
     <img src="https://img.shields.io/badge/steam-000000?style=flat-square&logo=steam&logoColor=white"/>
   </p>
-<h3>보유 주식</h3>
+<h2>보유 주식</h2>
     <p>
       <img src="https://img.shields.io/badge/tesla-CC0000?style=flat-square&logo=tesla&logoColor=white"/>
       <img src="https://img.shields.io/badge/samsung-1428A0?style=flat-square&logo=samsung&logoColor=white"/>
